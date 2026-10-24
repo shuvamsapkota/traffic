@@ -1,0 +1,49 @@
+body{
+text-align: center;
+background-color: aquamarine;
+}
+
+.traffic{
+margin-left: 580px;
+margin-top: 80px;
+background-color: black;
+width:100px;
+height: 370px;
+}
+.web{
+display: flex;
+}
+.red{
+width: 100px;
+height: 100px;
+background-color: grey;
+border-radius: 100%;
+}
+.red:hover{
+background-color: red;
+}
+.yellow{
+width: 100px;
+height: 100px;
+background-color: grey;
+border-radius: 100%;
+}
+.yellow:hover{
+background-color: yellow;
+}
+
+.green{
+width: 100px;
+height: 100px;
+background-color: grey;
+border-radius: 100%;
+}
+
+.green:hover{
+background-color: green;
+}
+
+img{
+width: 200px;
+height: 200px;
+}
